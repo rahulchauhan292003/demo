@@ -1,0 +1,23 @@
+.but{
+    height: auto;
+    width: 250px;
+    border: 2px solid rgb(243, 238, 238);
+    align-content: center;
+    margin: auto;
+    justify-content: center;
+    padding: 10px;
+}
+
+.b1{
+    margin: 60px;
+}
+
+.b2{
+    margin: 60px;
+}
+.b3{
+    margin: 60px;
+}
+.b4{
+    margin: 60px;
+}
